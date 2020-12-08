@@ -1,6 +1,6 @@
 # CGGD_lab2
 
-Implementation of basics of rasterization. Was done within the Computer Graphics in Game Development course of Innopolis University.
+Implementation of basics of ray tracing. Was done within the Computer Graphics in Game Development course of Innopolis University.
 
 # Basics of ray tracing labs
 
