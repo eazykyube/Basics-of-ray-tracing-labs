@@ -1,3 +1,7 @@
+# CGGD_lab2
+
+Implementation of basics of rasterization. Was done within the Computer Graphics in Game Development course of Innopolis University.
+
 # Basics of ray tracing labs
 
 This repo contains a template for Basics of ray tracing labs
